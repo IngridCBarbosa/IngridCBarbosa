@@ -1,6 +1,6 @@
-<h2> Hello, I'm Ingrid Barbosa! <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="30px"></h2>
+<h2> Hello, I'm Ingrid Barbosa! <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="50px"></h2>
 <img align='right' src="https://media.giphy.com/media/TjRcLDHDgLOWiI0L1V/giphy.gif" width="230">
-<p><em>Computer Science studen at <a href="https://www1.unicap.br/">Unicap</a><img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="30"> 
+<p><em>Computer Science studen at <a href="https://www1.unicap.br/">Unicap</a><img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="50"> 
 </em></p>
 
 [![Linkedin: Ingrid Barbosa](https://img.shields.io/badge/ingrid-barbosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ingrid-barbosa/)](https://www.linkedin.com/in/ingrid-barbosa-b7829a15b/)

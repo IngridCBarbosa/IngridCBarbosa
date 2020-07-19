@@ -16,7 +16,7 @@ const Ingrid = {
     technologies: {
         frontEnd: {
             js: ["Vue", "React"],
-            css: ["materialize", "vuetify", "bootstrap"]
+            css: ["bootstrap"]
         },
         backEnd: {
             js: ["node", "express"],

@@ -3,7 +3,7 @@
 <p><em>Computer Science studen at <a href="https://www1.unicap.br/">Unicap</a><img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: Ingrid Barbosa](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/ingrid-barbosa-b7829a15b/)
+[![Linkedin: Ingrid Barbosa](https://img.shields.io/badge/ingrid-barbosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ingrid-barbosa/)](https://www.linkedin.com/in/ingrid-barbosa-b7829a15b/)
 [![GitHub IngridCBarbosa](https://img.shields.io/github/followers/IngridCBarbosa?label=follow&style=social)](https://github.com/IngridCBarbosa)
 
 ### <img src="https://media.giphy.com/media/7wlticjPzbHcQ/giphy.gif" width="50"> A little more about me...  

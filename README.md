@@ -1,91 +1,101 @@
-<h2> Hello, I'm Ingrid Barbosa! <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="70px"></h2>
-<img align='right' src="https://media.giphy.com/media/TjRcLDHDgLOWiI0L1V/giphy.gif" width="230">
+<h2> Hi, I'm Ingrid Barbosa 👋</h2>
 
-<p><em>Software Engineer focused on backend development, APIs and distributed systems 🚀</br>
-</em></p>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
-[![Linkedin: Ingrid Barbosa](https://img.shields.io/badge/ingrid-barbosa-blue?style=flat-square\&logo=Linkedin\&logoColor=white\&link=https://www.linkedin.com/in/ingrid-barbosa/)](https://www.linkedin.com/in/ingrid-barbosa-b7829a15b/)
-[![GitHub IngridCBarbosa](https://img.shields.io/github/followers/IngridCBarbosa?label=follow\&style=social)](https://github.com/IngridCBarbosa)
+<p>
+Backend Software Engineer focused on building scalable APIs, distributed systems and reliable integrations.
+</p>
 
----
+<p>
+📍 Brazil • 🌍 Open to global opportunities  
+</p>
 
-### <img src="https://media.giphy.com/media/7wlticjPzbHcQ/giphy.gif" width="50"> About me
-
-💻 Backend developer with experience in building scalable APIs and distributed systems
-⚙️ Experience with integrations (APIs, Elasticsearch, external services)
-🚀 Working with microservices architecture and event-driven systems
-🔐 Interested in system design, software architecture and best practices
-📈 Daily learning mindset, always evolving as an engineer
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Ingrid%20Barbosa-blue?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/ingrid-barbosa-b7829a15b/)
+[![GitHub](https://img.shields.io/github/followers/IngridCBarbosa?label=Follow\&style=social)](https://github.com/IngridCBarbosa)
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 About Me
 
-```javascript id="nntn8y"
+* Backend engineer with experience in **scalable systems and microservices architecture**
+* Strong experience with **APIs, integrations and distributed systems**
+* Worked with **Elasticsearch and external service integrations**
+* Familiar with **event-driven architecture and messaging systems**
+* Focused on **clean architecture, performance and reliability**
+* Continuous learner, currently deepening knowledge in **system design**
+
+---
+
+### 🧠 Tech Stack
+
+```javascript
 const Ingrid = {
-    pronouns: "She" | "Her",
-    currentFocus: "Backend Engineering & Software Architecture",
+  languages: ["Go", "JavaScript", "TypeScript", "Java", "Python", "Ruby"],
 
-    languages: ["Go", "JavaScript", "TypeScript", "Java", "Python", "Ruby"],
+  backend: {
+    go: ["Gin", "GORM"],
+    node: ["Node.js", "Express"],
+    java: ["Spring Boot", "JPA", "Hibernate"],
+    ruby: ["Ruby on Rails"]
+  },
 
-    askMeAbout: ["APIs", "Microservices", "Distributed Systems", "CI/CD"],
+  architecture: [
+    "Microservices",
+    "Event-driven architecture",
+    "Distributed systems",
+    "REST APIs"
+  ],
 
-    technologies: {
-        backEnd: {
-            go: ["Gin", "GORM"],
-            node: ["Node.js", "Express"],
-            java: ["Spring Boot", "JPA", "Hibernate"],
-            ruby: ["Ruby on Rails"]
-        },
+  infrastructure: [
+    "Docker",
+    "GitLab CI/CD"
+  ],
 
-        architecture: [
-            "Microservices",
-            "Event-driven architecture",
-            "REST APIs",
-            "Distributed systems"
-        ],
+  data: [
+    "PostgreSQL",
+    "MySQL",
+    "MongoDB",
+    "Redis"
+  ],
 
-        devOps: [
-            "Docker",
-            "GitLab CI/CD"
-        ],
+  messaging: [
+    "Kafka",
+    "SQS"
+  ],
 
-        databases: [
-            "PostgreSQL",
-            "MySQL",
-            "MongoDB"
-        ],
-
-        cache: [
-            "Redis"
-        ],
-
-        messaging: [
-            "Kafka",
-            "SQS"
-        ],
-
-        tools: [
-            "Elasticsearch",
-            "Swagger / OpenAPI",
-            "Testcontainers",
-            "Claude Code"
-        ]
-    }
+  tools: [
+    "Elasticsearch",
+    "Swagger / OpenAPI",
+    "Testcontainers",
+    "Claude Code"
+  ]
 };
 ```
 
 ---
 
-### 🌱 Currently
+### 📊 GitHub Stats
 
-* Deepening knowledge in **Software Architecture**
-* Studying **messaging systems (Kafka, SQS)**
-* Improving skills in **system design and scalability**
+<p>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IngridCBarbosa&show_icons=true&theme=default"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridCBarbosa&layout=compact"/>
+</p>
 
 ---
 
-### 📫 Let's connect!
+### 🌱 Currently
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
-<em><b>I love connecting with people and sharing knowledge</b> — feel free to reach out!</em>
+* Studying **advanced system design**
+* Improving knowledge in **event-driven systems (Kafka, SQS)**
+* Exploring **scalability and high-performance architectures**
+
+---
+
+### 🤝 Let's connect
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50"/>
+
+<p>
+I enjoy discussing backend engineering, architecture and building scalable systems.  
+Feel free to reach out!
+</p>

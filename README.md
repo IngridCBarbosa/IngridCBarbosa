@@ -20,7 +20,8 @@ Backend Software Engineer focused on building scalable APIs, distributed systems
 * Backend engineer with experience in **scalable systems and microservices architecture**
 * Strong experience with **APIs, integrations and distributed systems**
 * Worked with **Elasticsearch and external service integrations**
-* Familiar with **event-driven architecture and messaging systems**
+* Familiar with **event-driven architecture and messaging systems (Kafka, SQS)**
+* Experience using **AI-assisted development tools (Claude Code)** to improve productivity and code quality
 * Focused on **clean architecture, performance and reliability**
 * Continuous learner, currently deepening knowledge in **system design**
 
@@ -28,7 +29,7 @@ Backend Software Engineer focused on building scalable APIs, distributed systems
 
 ### 🧠 Tech Stack
 
-```javascript
+```javascript id="2m8df0"
 const Ingrid = {
   languages: ["Go", "JavaScript", "TypeScript", "Java", "Python", "Ruby"],
 

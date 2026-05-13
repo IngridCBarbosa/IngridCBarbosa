@@ -21,18 +21,21 @@
 
 ### 🛠️ Tech Stack
 
-```javascript
+```javascript id="nntn8y"
 const Ingrid = {
     pronouns: "She" | "Her",
     currentFocus: "Backend Engineering & Software Architecture",
-    code: ["Go", "Typescript", "Java"],
+
+    languages: ["Go", "JavaScript", "TypeScript", "Java", "Python", "Ruby"],
+
     askMeAbout: ["APIs", "Microservices", "Distributed Systems", "CI/CD"],
 
     technologies: {
         backEnd: {
             go: ["Gin", "GORM"],
             node: ["Node.js", "Express"],
-            java: ["Spring Boot", "JPA", "Hibernate"]
+            java: ["Spring Boot", "JPA", "Hibernate"],
+            ruby: ["Ruby on Rails"]
         },
 
         architecture: [
@@ -53,6 +56,10 @@ const Ingrid = {
             "MongoDB"
         ],
 
+        cache: [
+            "Redis"
+        ],
+
         messaging: [
             "Kafka",
             "SQS"
@@ -61,7 +68,8 @@ const Ingrid = {
         tools: [
             "Elasticsearch",
             "Swagger / OpenAPI",
-            "Testcontainers"
+            "Testcontainers",
+            "Claude Code"
         ]
     }
 };

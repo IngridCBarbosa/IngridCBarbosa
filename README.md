@@ -1,102 +1,82 @@
-<h2> Hi, I'm Ingrid Barbosa 👋</h2>
+<h2>Hi, I'm Ingrid Barbosa 👋</h2>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+<img align="right" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="280"/>
 
 <p>
-Backend Software Engineer focused on building scalable APIs, distributed systems and reliable integrations.
+Backend Software Engineer passionate about building scalable applications, solving complex problems and continuously learning new technologies.
 </p>
 
 <p>
-📍 Brazil • 🌍 Open to global opportunities  
+📍 Brazil • 🌎 Open to remote and global opportunities
 </p>
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Ingrid%20Barbosa-blue?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/ingrid-barbosa-b7829a15b/)
-[![GitHub](https://img.shields.io/github/followers/IngridCBarbosa?label=Follow\&style=social)](https://github.com/IngridCBarbosa)
 
 ---
 
 ### 🚀 About Me
 
-* Backend engineer with experience in **scalable systems and microservices architecture**
-* Strong experience with **APIs, integrations and distributed systems**
-* Worked with **Elasticsearch and external service integrations**
-* Familiar with **event-driven architecture and messaging systems (Kafka, SQS)**
-* Experience using **AI-assisted development tools (Claude Code)** to improve productivity and code quality
-* Focused on **clean architecture, performance and reliability**
-* Continuous learner, currently deepening knowledge in **system design**
+I'm a Backend Engineer with experience building APIs, integrations and distributed systems.
+
+I enjoy working on challenging backend problems, designing reliable solutions and learning new technologies that help create better products.
+
+Some things I work with regularly:
+
+- Building scalable APIs and microservices
+- Designing integrations with external platforms and services
+- Event-driven architectures and messaging systems
+- Search solutions with Elasticsearch
+- AI-powered applications using Gemini and Claude Code
+- Cloud-native applications and backend services
+- Clean architecture, maintainability and performance
 
 ---
 
 ### 🧠 Tech Stack
 
-```javascript id="2m8df0"
-const Ingrid = {
-  languages: ["Go", "JavaScript", "TypeScript", "Java", "Python", "Ruby"],
+```go
+type Ingrid struct {
+    Languages []string
+    Backend []string
+    Cloud []string
+    Databases []string
+    Messaging []string
+    AI []string
+}
 
-  backend: {
-    go: ["Gin", "GORM"],
-    node: ["Node.js", "Express"],
-    java: ["Spring Boot", "JPA", "Hibernate"],
-    ruby: ["Ruby on Rails"]
-  },
+var me = Ingrid{
+    Languages: []string{
+        "Go", "Java", "JavaScript",
+        "TypeScript", "Python", "Ruby",
+    },
 
-  architecture: [
-    "Microservices",
-    "Event-driven architecture",
-    "Distributed systems",
-    "REST APIs"
-  ],
+    Backend: []string{
+        "Gin", "GORM",
+        "Node.js", "Express",
+        "Spring Boot",
+        "Ruby on Rails",
+    },
 
-  infrastructure: [
-    "Docker",
-    "GitLab CI/CD"
-  ],
+    Cloud: []string{
+        "Firebase",
+        "Cloudflare",
+        "Docker",
+        "GitLab CI/CD",
+    },
 
-  data: [
-    "PostgreSQL",
-    "MySQL",
-    "MongoDB",
-    "Redis"
-  ],
+    Databases: []string{
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB",
+        "Redis",
+    },
 
-  messaging: [
-    "Kafka",
-    "SQS"
-  ],
+    Messaging: []string{
+        "Kafka",
+        "Amazon SQS",
+    },
 
-  tools: [
-    "Elasticsearch",
-    "Swagger / OpenAPI",
-    "Testcontainers",
-    "Claude Code"
-  ]
-};
-```
-
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IngridCBarbosa&show_icons=true&theme=default"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridCBarbosa&layout=compact"/>
-</p>
-
----
-
-### 🌱 Currently
-
-* Studying **advanced system design**
-* Improving knowledge in **event-driven systems (Kafka, SQS)**
-* Exploring **scalability and high-performance architectures**
-
----
-
-### 🤝 Let's connect
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50"/>
-
-<p>
-I enjoy discussing backend engineering, architecture and building scalable systems.  
-Feel free to reach out!
-</p>
+    AI: []string{
+        "Gemini API",
+        "Claude Code",
+        "AI-assisted Development",
+    },
+}

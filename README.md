@@ -14,19 +14,22 @@ Backend Software Engineer passionate about building scalable applications, solvi
 
 ### 🚀 About Me
 
-I'm a Backend Engineer with experience building APIs, integrations and distributed systems.
+I'm a Backend Software Engineer passionate about building scalable systems and solving complex problems.
 
-I enjoy working on challenging backend problems, designing reliable solutions and learning new technologies that help create better products.
+Currently, I'm pursuing a postgraduate degree in Software Architecture and studying AWS Cloud Foundations through the AWS Women in Cloud program.
 
-Some things I work with regularly:
+I enjoy working with Golang, distributed systems, integrations and cloud technologies, always looking for ways to build reliable, maintainable and scalable solutions.
 
-- Building scalable APIs and microservices
-- Designing integrations with external platforms and services
-- Event-driven architectures and messaging systems
-- Search solutions with Elasticsearch
-- AI-powered applications using Gemini and Claude Code
-- Cloud-native applications and backend services
-- Clean architecture, maintainability and performance
+Some technologies I work with:
+
+- Go, Java, Node.js and Ruby
+- Microservices and distributed systems
+- Kafka and Amazon SQS
+- PostgreSQL, MongoDB and Redis
+- Elasticsearch
+- Firebase and Cloudflare
+- Gemini API and Claude Code
+- Docker and CI/CD pipelines
 
 ---
 
